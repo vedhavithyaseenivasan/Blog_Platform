@@ -141,4 +141,4 @@ This project was created using the following technologies.
 
 - Github: [vedhavithyaseenivasan](https://github.com/vedhavithyaseenivasan/)
 - Linkedin: [Vedhavithya S](https://www.linkedin.com/in/vedhavithya-s/)
-- Email: [vedhavithya@gmail.com](mailto:vedhavithya@gmail.com)
+- Email: [vedhavithya10@gmail.com](mailto:vedhavithya10@gmail.com)
